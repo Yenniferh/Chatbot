@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cc9d77cb-46e1-4467-bb53-49b2b35aa30c",
+    "data": [
+      {
+        "text": "qué onda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35d0d92d-3a47-42a1-b4ca-35e1fe66f399",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77f1de16-9f51-43cd-be84-65138712ccda",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbe10477-a9a7-4f19-8f62-f40f0ed1aaa4",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "686ba5c4-be31-4c89-a07c-ff8319ef3d4c",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
